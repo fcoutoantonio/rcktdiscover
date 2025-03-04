@@ -12,7 +12,7 @@ Este projeto consiste em uma landing page desenvolvida com HTML, CSS e JavaScrip
 
 1. Faça o download ou clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/fcoutoantonio/rcktdiscover.git
    ```
 2. Abra o projeto em um editor de código, como **VS Code**.
 3. Para visualizar a landing page, você pode:
